@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 ### Statistics
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RahulSDeshpande&theme=onedark)
+
+<br />
+<p align = "start">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulSDeshpande">
+</p>
