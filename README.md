@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <br />
 <p align = "start">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RahulSDeshpande">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RahulSDeshpande&count_private=true">
 </p>
