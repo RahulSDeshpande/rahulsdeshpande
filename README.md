@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 <p align = "start">
   <img src = "https://github-readme-stats.vercel.app/api?username=RahulSDeshpande&count_private=true">
 </p>
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/RahulSDeshpande/count.svg" />
+</p>
