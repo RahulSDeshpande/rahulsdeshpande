@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**RahulSDeshpande/rahulsdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**RahulSDeshpande/rahulsdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Statistics
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RahulSDeshpande&theme=onedark)
+-->
 
 <br />
 <p align = "start">
