@@ -1,5 +1,47 @@
 ### Hi there 👋
 
+## <img width="40" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> About me
+```kotlin
+val rahulsdeshpande =
+  human {
+    about {
+      name = "Rahul Deshpande"
+      company = "dopay"
+      role = "Sr. Mobile Engineer"
+      location = "United Arab Emirates"
+    }
+
+    tech {
+      core(
+        "Mobile",
+        "Backend",
+      )
+
+      day(
+        "Android",
+        "Kotlin",
+        "Java",
+        "Compose",
+        "KMP/CMP",
+        "Spring Boot",
+      )
+
+      night(
+        "Indie Apps",
+        "Music",
+        "Photography",
+        ".*".toRegex()
+      )
+    }
+
+    links {
+        email = "rahul.deshpande92@gmail.com"
+        twitter = "twitter.com/rahulografy"
+        linkedIn = "www.linkedin.com/in/rhld"
+    }
+  }
+```
+
 <!--
 **RahulSDeshpande/rahulsdeshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
