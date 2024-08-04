@@ -37,7 +37,7 @@ val rahulsdeshpande =
     links {
         email = "rahul.deshpande92@gmail.com"
         twitter = "twitter.com/rahulografy"
-        linkedIn = "www.linkedin.com/in/rhld"
+        linkedIn = "linkedin.com/in/rhld"
     }
   }
 ```
