@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## <img width="40" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> About me
-```kotlin
+```kt
 val rahulsdeshpande =
   human {
     about {
